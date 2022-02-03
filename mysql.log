@@ -1,0 +1,9 @@
+07/03/2021 11:55:43 AM ssh connection established
+07/03/2021 11:55:43 AM Connected (version 2.0, client OpenSSH_7.6p1)
+07/03/2021 11:55:43 AM Authentication (publickey) successful!
+07/03/2021 11:56:33 AM updating package repo
+07/03/2021 11:56:33 AM installing mysql server
+07/03/2021 11:57:08 AM changing root password
+07/03/2021 11:57:08 AM granting privileges
+07/03/2021 11:57:08 AM configuring mysql
+07/03/2021 11:57:08 AM restarting mysql
